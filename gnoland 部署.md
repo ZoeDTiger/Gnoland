@@ -11,7 +11,7 @@ gnoland.md
 更换代理：go env -w GOPROXY=https://goproxy.cn
 
 【gnoland test1安装部署】 
-    test3测试网 至14/12也无法接水
+    test3测试网 至14/12也无法接水 官网公告待修复ing
 
 1.创建密钥gnokey 账户 以及与gno交互
 git clone git@github.com:gnolang/gno.git
